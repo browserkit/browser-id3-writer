@@ -1,0 +1,6 @@
+.idea/
+node_modules/
+dist/
+coverage/
+todo.md
+npm-debug.log
